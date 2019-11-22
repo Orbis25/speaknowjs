@@ -13,7 +13,7 @@ Simple text to Speech library in js.
 
 import { Speech } from '{locationName}'
 
-const voice = "es-Us" or "Google US English"
+const voice = "en-Us" or "Google US English"
 
 Speech.readText("hi people" , voice)
 
